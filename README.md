@@ -1,4 +1,4 @@
- [Back to Top](#distributed-systems-components)
+ [Core Components](#core-components)
  
 ## What is Systems Design – Learn System Design
 
@@ -6,7 +6,7 @@ Systems Design is the process of defining the architecture, components, modules,
 
 ![Alt text](https://media.geeksforgeeks.org/wp-content/uploads/20221117160614/systemdevelopmentinfographic1.png "Title")
 
-## Core Components of Systems Design
+## Core Components
 Below are some of the major components of the System Design. discussed in brief. The detailed version of this will be discussed in different posts:
 
 * **Load Balancers:**
