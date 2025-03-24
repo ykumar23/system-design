@@ -52,4 +52,5 @@ Below are some of the major components of the System Design. discussed in brief.
     * Tools that manage and allocate computational resources for executing tasks across a distributed system.
     * Enable parallel processing and efficient resource utilization.
     * Examples: Apache Airflow, Kubernetes Jobs.
-  
+
+![Alt text](https://media.geeksforgeeks.org/wp-content/uploads/20221117164833/componentsofasystem21.png "Title")
